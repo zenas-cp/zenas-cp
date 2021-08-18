@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi! I'm Zenas. Welcome to my Github Profile 👋
+
+<a href="https://github.com/zenas-cp">
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=zenas-cp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenas-cp&theme=dark"/>
+</a>
+
+I'm a **Frontend Developer** in Nanjing/China
+
 
 <!--
 **zenas-cp/zenas-cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
