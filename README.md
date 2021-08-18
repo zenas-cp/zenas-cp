@@ -5,6 +5,8 @@
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenas-cp&theme=dark"/>
 </a>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zenas-cp)](https://github.com/anuraghazra/github-readme-stats)
+
 I'm a **Frontend Developer** in Nanjing/China
 
 
